@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #EF233C;
+    color: #6051ed;
     outline: none;
     text-decoration: none;
 }
@@ -44,20 +44,20 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #EF233C;
+    background: #6051ed;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    box-shadow: inset 0 0 0 50px #6051ed;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
 }
 
 .btn:hover {
-    color: #EF233C;
+    color: #6051ed;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #6051ed;
+    border-color: #6051ed;
 }
 
 #loader {
@@ -91,7 +91,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #EF233C;
+    border-top: 5px solid #6051ed;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -192,7 +192,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #EF233C;
+        color: #6051ed;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -215,7 +215,7 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #EF233C;
+        color: #6051ed;
     }
 }
 
@@ -226,7 +226,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #EF233C;
+        color: #6051ed;
     }
     
     .navbar .navbar-nav {
@@ -252,7 +252,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(96, 81, 237, .95), rgba(96, 81, 237, .95)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -318,7 +318,7 @@ a:focus {
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: #EF233C;
+    color: #6051ed;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -443,7 +443,7 @@ a:focus {
     top: 11px;
     right: 0;
     left: -30px;
-    background: #EF233C;
+    background: #6051ed;
     z-index: -1;
 }
 
@@ -454,7 +454,7 @@ a:focus {
     height: 3px;
     top: 11px;
     left: 3px;
-    background: #EF233C;
+    background: #6051ed;
     z-index: 1;
 }
 
@@ -538,7 +538,7 @@ a:focus {
 
 .about .progress .progress-bar {
     width: 0px;
-    background: #EF233C;
+    background: #6051ed;
     border-radius: 10px;
     transition: 2s;
 }
@@ -571,7 +571,7 @@ a:focus {
     content: '';
     position: absolute;
     width: 2px;
-    background: #EF233C;
+    background: #6051ed;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -603,7 +603,7 @@ a:focus {
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid #EF233C;
+    border: 2px solid #6051ed;
     border-radius: 16px;
     z-index: 1;
 }
@@ -635,7 +635,7 @@ a:focus {
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: #EF233C;
+    color: #6051ed;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -690,10 +690,10 @@ a:focus {
     outline: none;
     font-size: 15px;
     
-    color: #EF233C;
+    color: #6051ed;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #6051ed;
+    border-color: #6051ed;
   }
  
 
@@ -772,7 +772,7 @@ a:focus {
 }
 
 .service .service-item:hover {
-    box-shadow: inset 800px 0 0 0 #EF233C;
+    box-shadow: inset 800px 0 0 0 #6051ed;
 }
 
 .service .service-icon {
@@ -782,14 +782,14 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #EF233C;
+    border: 1px solid #6051ed;
     background: #ffffff;
 }
 
 .service .service-icon i {
     position: relative;
     font-size: 60px;
-    color: #EF233C;
+    color: #6051ed;
     transition: .3s;
 }
 
@@ -857,10 +857,10 @@ a:focus {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background: #EF233C;
+    background: #6051ed;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    box-shadow: inset 0 0 0 50px #6051ed;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
@@ -868,10 +868,10 @@ a:focus {
 
 .portfolio #portfolio-filter li:hover,
 .portfolio #portfolio-filter li.filter-active {
-    color: #EF233C;
+    color: #6051ed;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #6051ed;
+    border-color: #6051ed;
 }
 
 .portfolio .portfolio-item {
@@ -925,7 +925,7 @@ a:focus {
 .portfolio .portfolio-text .certi-progress-bar {
     width: calc(100% - 0);
     height: 100% ;
-    background: #EF233C;
+    background: #6051ed;
     border-radius: 10px;
     transition: 2s;
 }
@@ -949,16 +949,16 @@ a:focus {
 }
 
 .portfolio .portfolio-item:hover a.btn {
-    color: #EF233C;
+    color: #6051ed;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #6051ed;
+    border-color: #6051ed;
 }
 .portfolio .portfolio-wrap:hover h3 {
-    color: #EF233C;
+    color: #6051ed;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #6051ed;
+    border-color: #6051ed;
     transform: scale(1.1);
 }
 
@@ -969,7 +969,7 @@ a:focus {
     border-radius: 100%;
     background: 
       radial-gradient(closest-side, white 79%, transparent 80% 100%),
-      conic-gradient(#EF233C 15%, grey 0);    
+      conic-gradient(#6051ed 15%, grey 0);    
   }
 
 /*******************************/
@@ -978,7 +978,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #EF233C;
+    background: #6051ed;
 }
 
 .footer .container-fluid {
